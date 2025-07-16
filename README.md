@@ -34,7 +34,7 @@ This PCB is a compact dual-voltage breadboard power supply designed to deliver 5
   </tr>
 </table>
 
-## Intermediate Design: Solar Power Supply
+## Intermediate Design: Solar Power Regulator
 This PCB is a solar-powered 3.3V boost converter based on Clemens Valens’ Tiny Solar Supply, originally published by Elektor. Designed in KiCad, it steps up the voltage from a small solar panel and rechargeable battery using the AP3015 IC—ideal for powering low-power microcontrollers.
 
 **3D-View:**
