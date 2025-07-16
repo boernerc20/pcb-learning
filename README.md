@@ -41,10 +41,10 @@ This PCB is a solar-powered 3.3V boost converter based on Clemens Valens’ Tiny
 <table>
   <tr>
     <td>
-      <img src="Solar-Power-Supply/3D-View-Front.png" width="400"/>
+      <img src="Solar-Power-Regulator/3D-View-Front.png" width="400"/>
     </td>
     <td>
-      <img src="Solar-Power-Supply/3D-View-Back.png" width="400"/>
+      <img src="Solar-Power-Regulator/3D-View-Back.png" width="400"/>
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ This PCB is a solar-powered 3.3V boost converter based on Clemens Valens’ Tiny
 <table>
   <tr>
     <td>
-      <img src="Solar-Power-Supply/Schematic.png" width="700"/>
+      <img src="Solar-Power-Regulator/Schematic.png" width="700"/>
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ This PCB is a solar-powered 3.3V boost converter based on Clemens Valens’ Tiny
 <table>
   <tr>
     <td>
-      <img src="Solar-Power-Supply/Layout.png" width="700"/>
+      <img src="Solar-Power-Regulator/Layout.png" width="700"/>
     </td>
   </tr>
 </table>
