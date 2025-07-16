@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "8SS1012-Z")(type "Legacy")(uri "/home/chris/downloads/8SS1012-Z/KiCad/8SS1012-Z.lib")(options "")(descr ""))
+)
